@@ -1,0 +1,9 @@
+orientation,floor_number,id,width_m,height_m,sill_height_m,wall_type,t_env
+NE,1,panel_0_0,1.1,2.1,0.0,door_int,t_avg
+NE,1,panel_0_1,1.1,2.1,0.0,door_int,t_avg
+NE,1,panel_0_2,2.428,4.6,0.0,wall_ext_roughcast,t_ext
+NW,1,panel_1_0,18.602,2.35,2.3,wall_ext_brick,t_ext
+SE,0,panel_0_0,1.0,2.1,0.0,door_ext,t_ext
+SE,0,panel_0_1,1.0,2.1,0.0,door_ext,t_ext
+SE,0,panel_0_2,1.0,2.1,0.0,door_ext,t_ext
+SW,1,panel_2_0,1.2,2.1,0.0,door_int,t_avg

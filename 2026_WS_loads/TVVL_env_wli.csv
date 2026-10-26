@@ -1,0 +1,6 @@
+interface_id,wall_type
+interface_0_1,floor_sep_u
+interface_1_2,floor_sep_i
+interface_2_3,floor_sep_i
+interface_3_4,floor_sep_u
+interface_4_5,floor_sep_i

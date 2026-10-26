@@ -1,0 +1,5 @@
+orientation,type,wall_type,t_env,rad heating [W/m2]
+E,wall,wall_ext,t_ext,0.0
+N,wall,wall_ext,t_ext,0.0
+S,wall,wall_ext,t_ext,0.0
+W,wall,wall_ext,t_ext,0.0

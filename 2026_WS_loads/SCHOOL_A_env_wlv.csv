@@ -1,0 +1,13 @@
+orientation,floor_number,type,width_m,height_m,wall_type,t_env
+NE,1,wall,6.262,4.5,wall_brick,t_min
+NE,1,wall,8.185,4.5,party_wall,t_avg
+NE,2,wall,6.646,4.34,wall_brick,t_min
+NE,2,wall,7.753,4.34,party_wall,t_avg
+NW,1,wall,12.146,4.5,wall_brick,t_avg
+NW,2,wall,12.033,4.34,wall_brick,t_avg
+SE,1,wall,3.131,4.5,partition,t_min
+SE,1,wall,9.015,4.5,wall_brick,t_ext
+SE,2,wall,3.021,4.34,partition,t_min
+SE,2,wall,8.995,4.34,wall_brick,t_ext
+SW,1,wall,14.447,4.5,wall_brick,t_ext
+SW,2,wall,14.433,4.34,wall_brick,t_ext

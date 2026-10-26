@@ -1,0 +1,16 @@
+orientation,floor_number,id,width_m,height_m,sill_height_m,wall_type,t_env
+NE,1,panel_2_0,1.2,2.1,0.0,door_int,t_avg
+NE,2,panel_0_0,0.6,4.34,0.0,partition,t_min
+NE,2,panel_2_0,5.6,2.0,2.34,wall_brick,t_ext
+NE,3,panel_0_0,8.021,2.1,0.0,wall_brick,t_min
+NW,1,panel_3_0,3.0,4.5,0.0,wall_brick,t_ext
+NW,2,panel_3_0,3.0,4.34,0.0,wall_brick,t_ext
+NW,3,panel_3_0,3.288,2.23,0.0,wall_brick,t_ext
+SE,0,panel_3_0,0.8,2.1,0.0,door_int,t_min
+SE,0,panel_3_1,0.8,2.1,0.0,door_int,t_min
+SE,1,panel_1_0,0.9,2.1,0.0,door_int,t_min
+SE,2,panel_1_0,0.9,2.1,0.0,door_int,t_min
+SE,3,panel_1_0,0.95,2.1,0.0,wall_brick,t_min
+SE,3,panel_1_1,0.95,2.1,0.0,door_int,t_min
+SE,3,panel_1_2,0.95,2.1,0.0,wall_brick,t_min
+SW,1,panel_4_0,1.2,2.4,0.0,door_ext,t_ext

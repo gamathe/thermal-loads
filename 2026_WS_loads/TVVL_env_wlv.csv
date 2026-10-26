@@ -1,0 +1,5 @@
+orientation,type,wall_type,t_env
+E,wall,wall_ext,t_ext
+N,wall,wall_ext,t_ext
+S,wall,wall_ext,t_ext
+W,wall,wall_ext,t_ext

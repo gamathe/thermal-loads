@@ -1,0 +1,9 @@
+orientation,floor_number,type,wall_type,t_env
+NE,0,wall,party_wall,t_avg
+NE,1,wall,party_wall,t_avg
+NW,0,wall,wall_ext_gr,t_ext
+NW,1,wall,wall_ext_gr,t_ext
+SE,0,wall,wall_ext_brick,t_ext
+SE,1,wall,wall_ext_roughcast,t_ext
+SW,0,wall,party_wall,t_avg
+SW,1,wall,party_wall,t_avg

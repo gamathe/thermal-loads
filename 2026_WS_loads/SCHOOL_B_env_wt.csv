@@ -1,0 +1,13 @@
+wall_type,thermal_bridges,external_clading,adjacent_entity,ground_contact
+door_ext,True,False,False,False
+door_int,False,False,False,False
+floor_ext,True,False,False,False
+floor_gr,False,False,False,True
+floor_int,False,False,False,False
+partition,False,False,False,False
+party_wall,False,False,True,False
+roof,True,True,False,False
+wall_ext_brick,True,True,False,False
+wall_ext_gr,False,False,False,True
+wall_ext_roughcast,True,False,False,False
+wall_int,False,False,False,False

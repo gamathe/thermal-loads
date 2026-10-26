@@ -1,0 +1,7 @@
+orientation,type,width_m,height_m,sill_height_m,wall_type,t_env
+NE,wall,6.239,2.2,0.0,roof,t_ext
+NE,wall,8.213,4.338,0.0,wall_brick,t_ext
+NW,wall,12.017,4.63,0.0,wall_brick,t_avg
+SE,wall,3.04,3.258,0.0,wall_brick,t_ext
+SE,wall,9.012,5.055,0.0,wall_brick_isol,t_ext
+SW,wall,14.434,1.08,0.0,wall_brick_isol,t_ext

@@ -1,0 +1,3 @@
+orientation,floor_number,id,width_m,height_m,sill_height_m,wall_type,t_env
+E,0,panel_6_0,5.1,2.2,0.0,wall_sep,t_min
+E,0,panel_6_1,16.5,0.5,2.4,transom,t_ext

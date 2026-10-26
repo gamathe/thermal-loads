@@ -1,0 +1,10 @@
+wall_type,thermal_bridges,external_clading,adjacent_entity,ground_contact
+floor_ext,True,False,False,False
+floor_gr,False,False,False,True
+floor_sep_i,False,False,False,False
+floor_sep_u,False,False,False,False
+roof,True,False,False,False
+roof_terrace,True,False,False,False
+transom,True,False,False,False
+wall_ext,True,True,False,False
+wall_sep,False,False,False,False

@@ -1,0 +1,10 @@
+id,type,parent,azimuth_deg,slope_deg,width_m,height_m,sill_height_m,dist_corner_m,area_m2,net_area_m2
+wall_0,wall,,225.0,90,5.907,2.8,0,,16.539,16.539
+wall_1,wall,,134.88,90,8.978,2.8,0,,25.139,25.139
+wall_2,wall,,45.0,90,5.943,2.8,0,,16.64,16.64
+panel_3_0,panel,wall_3,314.65,90,0.8,2.1,0.0,2.149,1.68,
+panel_3_1,panel,wall_3,314.65,90,0.8,2.1,0.0,5.373,1.68,
+window_3_0,window,wall_3,314.65,90,1.1,1.2,0.9,6.582,1.32,
+wall_3,wall,,314.65,90,8.978,2.8,0,,25.139,20.459
+floor,floor,,,0,,,,,53.194,
+roof,roof,,,180,,,,,53.194,53.194

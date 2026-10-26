@@ -1,0 +1,5 @@
+orientation,type,wall_type,t_env
+NE,wall,wall_brick,t_min
+NW,wall,wall_brick,t_avg
+SE,wall,wall_int,t_min
+SW,wall,wall_brick,t_ext

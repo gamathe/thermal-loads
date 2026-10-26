@@ -1,0 +1,5 @@
+floor_number,interface_id,area_m2,wall_type,t_env
+0,ext_floor_0,347.82,floor_gr,t_avg
+1,ext_floor_1,2.165,floor_ext,t_ext
+4,ext_roof_4,83.62,roof_terrace,t_ext
+5,ext_roof_5,266.365,roof,t_ext

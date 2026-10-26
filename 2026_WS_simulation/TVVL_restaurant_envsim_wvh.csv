@@ -1,0 +1,3 @@
+type,wall_type,t_env,rad heating [W/m2]
+floor,floor_sep,t_in,100.0
+roof,roof,t_ext,0.0
